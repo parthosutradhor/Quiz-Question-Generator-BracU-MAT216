@@ -1,0 +1,72 @@
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: @Name@} \par 
+    \large \textbf{ID: @ID@} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        @A11@x + @A12@y + @A13@z + @A14@w &= @A15@ \\
+        @A21@x + @A22@y + @A23@z + @A24@w &= @A25@ \\
+        @A31@x + @A32@y + @A33@z + @A34@w &= @A35@ \\
+        @A41@x + @A42@y + @A43@z + @A44@w &= @A45@ \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        @B11@x_1 + @B12@x_2 + @B13@x_3 + @B14@x_4 + @B15@x_5 &= @B16@ \\
+        @B21@x_1 + @B22@x_2 + @B23@x_3 + @B24@x_4 + @B25@x_5 &= @B26@ \\
+        @B31@x_1 + @B32@x_2 + @B33@x_3 + @B34@x_4 + @B35@x_5 &= @B36@ \\
+        @B41@x_1 + @B42@x_2 + @B43@x_3 + @B44@x_4 + @B45@x_5 &= @B46@ \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+

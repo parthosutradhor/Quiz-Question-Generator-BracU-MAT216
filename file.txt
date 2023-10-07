@@ -1,0 +1,6480 @@
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. SHAMSUL ASHRAFIN} \par 
+    \large \textbf{ID: 21101229} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 4y - 19z + 7w &= 138 \\
+        -46x + 98y + 37z + 30w &= -439 \\
+        -9x + 9y - 12z - 10w &= 178 \\
+        4x - 8y - 11z - 4w &= 119 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 4x_2 - 10x_3 + 9x_4 + 14x_5 &= 869 \\
+        -134x_1 - 22x_2 - 37x_3 - 11x_4 + 92x_5 &= 3180 \\
+        4x_1 - 6x_2 + 14x_3 + 8x_4 + 5x_5 &= -1160 \\
+        18x_1 + 2x_2 + 5x_3 + 5x_4 - 6x_5 &= -418 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: EUSRA IBNAT} \par 
+    \large \textbf{ID: 21201147} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 9y - 12z + 13w &= 52 \\
+        11x - 6y + 11z + 15w &= -180 \\
+        -12x + 8y - 14z - 8w &= 166 \\
+        5x - 11y - 15z - 11w &= 132 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 2x_2 - 14x_3 + 5x_4 + 10x_5 &= 728 \\
+        10x_1 + 1x_2 - 8x_3 + 3x_4 + 13x_5 &= 463 \\
+        4x_1 - 12x_2 + 8x_3 + 6x_4 + 5x_5 &= -443 \\
+        7x_1 + 5x_2 + 1x_3 + 7x_4 - 3x_5 &= -72 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: LUBABA TASIN} \par 
+    \large \textbf{ID: 21201230} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 11y - 8z + 6w &= 57 \\
+        -21x + 43y - 28z - 27w &= 34 \\
+        -11x + 7y - 4z - 13w &= -27 \\
+        12x - 5y - 7z - 13w &= -17 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 5x_2 - 5x_3 + 7x_4 + 4x_5 &= 79 \\
+        45x_1 - 20x_2 + 11x_3 + 47x_4 + 41x_5 &= 497 \\
+        11x_1 - 10x_2 + 7x_3 + 11x_4 + 11x_5 &= 113 \\
+        -51x_1 + 15x_2 - 6x_3 - 54x_4 - 45x_5 &= -576 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: TALAL BIN SAJJAD RAHI} \par 
+    \large \textbf{ID: 21201289} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 8y - 13z + 11w &= 124 \\
+        -174x + 158y + 49z + 86w &= -127 \\
+        -13x + 11y - 12z - 10w &= 240 \\
+        10x - 6y - 19z - 16w &= 255 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 4x_2 - 12x_3 + 5x_4 + 10x_5 &= 1191 \\
+        -34x_1 - 226x_2 + 41x_3 + 25x_4 + 150x_5 &= -2706 \\
+        8x_1 - 18x_2 + 16x_3 + 12x_4 + 5x_5 &= -1410 \\
+        14x_1 + 10x_2 + 7x_3 + 9x_4 - 10x_5 &= -688 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NABIL HOSSAIN} \par 
+    \large \textbf{ID: 21201298} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 9y - 12z + 10w &= 137 \\
+        10x - 8y + 16z + 8w &= -228 \\
+        -19x + 7y - 10z - 17w &= 207 \\
+        14x - 5y - 9z - 11w &= 121 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        16x_1 + 3x_2 - 11x_3 + 9x_4 + 12x_5 &= 965 \\
+        10x_1 + 11x_2 - 15x_3 + 7x_4 + 15x_5 &= 1347 \\
+        9x_1 - 18x_2 + 17x_3 + 17x_4 + 9x_5 &= -1145 \\
+        10x_1 + 9x_2 + 11x_3 + 13x_4 - 6x_5 &= -791 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ANIRUDDHA AYAN} \par 
+    \large \textbf{ID: 21201453} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 7y - 6z + 13w &= 82 \\
+        8x - 6y + 11z + 3w &= -28 \\
+        -11x + 10y - 13z - 14w &= 31 \\
+        14x - 8y - 9z - 14w &= 29 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 13x_2 - 6x_3 + 4x_4 + 4x_5 &= 289 \\
+        6x_1 + 4x_2 - 7x_3 + 5x_4 + 5x_5 &= 238 \\
+        7x_1 - 13x_2 + 5x_3 + 5x_4 + 10x_5 &= 170 \\
+        12x_1 + 7x_2 + 12x_3 + 14x_4 - 5x_5 &= -119 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: GAZI MD. MUHTASIM RASHID} \par 
+    \large \textbf{ID: 21201599} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 18y - 17z + 11w &= 311 \\
+        -239x + 234y - 121z + 46w &= 1816 \\
+        -14x + 7y - 19z - 18w &= 236 \\
+        17x - 9y - 15z - 17w &= 207 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 9x_2 - 16x_3 + 12x_4 + 10x_5 &= 1883 \\
+        81x_1 - 270x_2 - 17x_3 + 69x_4 + 302x_5 &= 14257 \\
+        13x_1 - 17x_2 + 17x_3 + 17x_4 + 14x_5 &= -820 \\
+        9x_1 + 18x_2 + 10x_3 + 16x_4 - 14x_5 &= -1358 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MUHAIMIN ISLAM} \par 
+    \large \textbf{ID: 21201607} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 8y - 11z + 7w &= 106 \\
+        12x - 11y + 9z + 7w &= 2 \\
+        -1x + 15y - 14z - 8w &= 100 \\
+        6x - 14y - 13z - 8w &= 135 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 12x_2 - 16x_3 + 11x_4 + 16x_5 &= 911 \\
+        4x_1 + 11x_2 - 15x_3 + 10x_4 + 0x_5 &= 753 \\
+        8x_1 - 4x_2 + 10x_3 + 0x_4 + 15x_5 &= -344 \\
+        8x_1 + 8x_2 + 13x_3 + 1x_4 - 12x_5 &= -654 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NYEEMUR RAHAMAN DIPU} \par 
+    \large \textbf{ID: 21201666} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 14y - 15z + 6w &= 210 \\
+        10x - 13y + 8z + 10w &= -66 \\
+        -7x + 6y - 7z - 15w &= 36 \\
+        10x - 13y - 13z - 13w &= 60 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 6x_2 - 15x_3 + 10x_4 + 8x_5 &= 968 \\
+        14x_1 + 10x_2 - 15x_3 + 6x_4 + 14x_5 &= 1286 \\
+        14x_1 - 9x_2 + 6x_3 + 10x_4 + 14x_5 &= 416 \\
+        14x_1 + 12x_2 + 12x_3 + 10x_4 - 13x_5 &= -808 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: LAMISHA RAHMAN} \par 
+    \large \textbf{ID: 21201765} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        14x + 13y - 10z + 13w &= 252 \\
+        -25x + 184y - 99z + 88w &= 1600 \\
+        -8x + 8y - 14z - 8w &= 46 \\
+        15x - 9y - 11z - 9w &= 88 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        13x_1 + 10x_2 - 6x_3 + 15x_4 + 12x_5 &= 932 \\
+        6x_1 + 13x_2 - 8x_3 + 13x_4 + 15x_5 &= 1087 \\
+        8x_1 - 16x_2 + 8x_3 + 8x_4 + 11x_5 &= 323 \\
+        7x_1 + 13x_2 + 11x_3 + 11x_4 - 15x_5 &= -854 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: CHINMOY KABIRAJ} \par 
+    \large \textbf{ID: 21241037} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        0x + 3y - 8z + 7w &= 16 \\
+        14x - 2y + 7z + 9w &= -118 \\
+        -9x + 8y - 15z - 12w &= 213 \\
+        12x - 8y - 11z - 6w &= 95 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 7x_2 - 8x_3 + 2x_4 + 16x_5 &= 405 \\
+        10x_1 + 2x_2 - 11x_3 + 3x_4 + 7x_5 &= 534 \\
+        3x_1 - 11x_2 + 13x_3 + 5x_4 + 2x_5 &= -702 \\
+        8x_1 + 7x_2 + 2x_3 + 12x_4 - 9x_5 &= -153 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NABANITA SARKER} \par 
+    \large \textbf{ID: 21301037} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        0x + 3y - 8z + 7w &= 16 \\
+        14x - 2y + 7z + 9w &= -118 \\
+        -9x + 8y - 15z - 12w &= 213 \\
+        12x - 8y - 11z - 6w &= 95 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 7x_2 - 8x_3 + 2x_4 + 16x_5 &= 405 \\
+        10x_1 + 2x_2 - 11x_3 + 3x_4 + 7x_5 &= 534 \\
+        3x_1 - 11x_2 + 13x_3 + 5x_4 + 2x_5 &= -702 \\
+        8x_1 + 7x_2 + 2x_3 + 12x_4 - 9x_5 &= -153 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MOHAMMOD TASNEEM HASAN} \par 
+    \large \textbf{ID: 21301441} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 12y - 7z + 9w &= 106 \\
+        6x - 5y + 5z + 3w &= 8 \\
+        -11x + 11y - 4z - 8w &= -20 \\
+        4x - 12y - 5z - 8w &= -51 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 6x_2 - 8x_3 + 9x_4 + 10x_5 &= 289 \\
+        66x_1 - 30x_2 - 17x_3 + 63x_4 + 102x_5 &= 2456 \\
+        12x_1 - 12x_2 + 6x_3 + 8x_4 + 13x_5 &= 290 \\
+        6x_1 + 6x_2 + 9x_3 + 5x_4 - 10x_5 &= -140 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MST NOUSHIN FARIHA RONOK} \par 
+    \large \textbf{ID: 21301609} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 4y - 11z + 7w &= 126 \\
+        48x + 132y + 105z + 60w &= -837 \\
+        -7x + 7y - 18z - 4w &= 132 \\
+        0x - 12y - 19z - 2w &= 177 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        0x_1 + 14x_2 - 12x_3 + 15x_4 + 14x_5 &= 1011 \\
+        -162x_1 + 30x_2 - 153x_3 + 81x_4 + 156x_5 &= 11952 \\
+        14x_1 - 8x_2 + 12x_3 + 8x_4 + 7x_5 &= -856 \\
+        18x_1 + 6x_2 + 9x_3 + 1x_4 - 8x_5 &= -654 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ABDUR RAHMAN ARAFAT} \par 
+    \large \textbf{ID: 22101061} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        2x + 12y - 5z + 9w &= 68 \\
+        4x - 9y + 7z + 1w &= -62 \\
+        -13x + 3y - 8z - 14w &= 40 \\
+        8x - 8y - 7z - 10w &= -31 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 6x_2 - 6x_3 + 3x_4 + 10x_5 &= 45 \\
+        6x_1 - 72x_2 + 43x_3 + 39x_4 + 14x_5 &= -508 \\
+        2x_1 - 10x_2 + 8x_3 + 8x_4 + 1x_5 &= -74 \\
+        6x_1 + 12x_2 + 5x_3 + 9x_4 - 8x_5 &= 64 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: TASNIM ZAMAN} \par 
+    \large \textbf{ID: 22101064} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        0x + 6y - 5z + 14w &= 0 \\
+        8x - 3y + 14z + 8w &= -106 \\
+        -7x + 6y - 9z - 13w &= 124 \\
+        14x - 5y - 11z - 11w &= 58 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        12x_1 + 4x_2 - 5x_3 + 4x_4 + 12x_5 &= 100 \\
+        10x_1 + 4x_2 - 11x_3 + 6x_4 + 14x_5 &= 186 \\
+        6x_1 - 11x_2 + 6x_3 + 10x_4 + 4x_5 &= -196 \\
+        6x_1 + 14x_2 + 4x_3 + 14x_4 - 7x_5 &= -30 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SHANJIDA ISLAM SARKER} \par 
+    \large \textbf{ID: 22101097} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 17y - 12z + 11w &= 160 \\
+        10x - 2y + 15z + 11w &= -200 \\
+        -13x + 0y - 15z - 12w &= 189 \\
+        18x - 6y - 9z - 18w &= 135 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 7x_2 - 10x_3 + 8x_4 + 12x_5 &= 507 \\
+        14x_1 + 2x_2 - 13x_3 + 5x_4 + 9x_5 &= 634 \\
+        7x_1 - 13x_2 + 15x_3 + 9x_4 + 2x_5 &= -908 \\
+        14x_1 + 15x_2 + 4x_3 + 16x_4 - 3x_5 &= -159 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: JONAYED KADER NABIL} \par 
+    \large \textbf{ID: 22101100} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 7y - 6z + 2w &= 6 \\
+        4x + 7y - 6z + 2w &= 7 \\
+        -10x + 3y - 5z - 7w &= -17 \\
+        7x - 6y - 7z - 4w &= 3 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 10x_2 - 5x_3 + 2x_4 + 8x_5 &= 24 \\
+        7x_1 + 10x_2 - 5x_3 + 2x_4 + 8x_5 &= 24 \\
+        2x_1 - 5x_2 + 8x_3 + 2x_4 + 8x_5 &= 14 \\
+        0x_1 + 0x_2 + 0x_3 + 0x_4 + 0x_5 &= 0 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NAJIAT ISLAM} \par 
+    \large \textbf{ID: 22101270} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 7y - 4z + 12w &= 93 \\
+        -99x + 49y - 36z - 67w &= 12 \\
+        -17x + 5y - 4z - 13w &= -25 \\
+        16x - 7y - 9z - 11w &= -39 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        12x_1 + 5x_2 - 3x_3 + 11x_4 + 8x_5 &= 221 \\
+        73x_1 - 46x_2 + 29x_3 + 71x_4 + 93x_5 &= 1527 \\
+        7x_1 - 8x_2 + 5x_3 + 7x_4 + 11x_5 &= 155 \\
+        -85x_1 + 41x_2 - 26x_3 - 82x_4 - 101x_5 &= -1748 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD SHAHRIAR HOSSAIN} \par 
+    \large \textbf{ID: 22101313} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 4y - 5z + 5w &= 37 \\
+        3x - 7y + 3z + 11w &= -7 \\
+        -6x + 9y - 9z - 8w &= 18 \\
+        3x - 11y - 11z - 3w &= 31 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        1x_1 + 3x_2 - 4x_3 + 8x_4 + 12x_5 &= 115 \\
+        4x_1 + 10x_2 - 4x_3 + 4x_4 + 8x_5 &= 110 \\
+        9x_1 - 11x_2 + 9x_3 + 7x_4 + 12x_5 &= 16 \\
+        5x_1 + 10x_2 + 12x_3 + 2x_4 - 4x_5 &= -102 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ASIR ABRAR TONISH} \par 
+    \large \textbf{ID: 22101324} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 11y - 14z + 4w &= 98 \\
+        7x - 10y + 10z + 12w &= -51 \\
+        -8x + 7y - 11z - 11w &= 45 \\
+        11x - 8y - 7z - 12w &= 57 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 4x_2 - 9x_3 + 6x_4 + 12x_5 &= 282 \\
+        2x_1 + 6x_2 - 8x_3 + 7x_4 + 3x_5 &= 168 \\
+        6x_1 - 5x_2 + 12x_3 + 10x_4 + 8x_5 &= -116 \\
+        11x_1 + 7x_2 + 12x_3 + 6x_4 - 6x_5 &= -194 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: WASIF KHAN} \par 
+    \large \textbf{ID: 22101357} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 12y - 11z + 11w &= 105 \\
+        9x - 9y + 11z + 15w &= -155 \\
+        -14x + 11y - 17z - 10w &= 172 \\
+        5x - 9y - 15z - 9w &= 111 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        5x_1 + 7x_2 - 14x_3 + 10x_4 + 12x_5 &= 917 \\
+        6x_1 + 4x_2 - 10x_3 + 6x_4 + 8x_5 &= 654 \\
+        7x_1 - 7x_2 + 11x_3 + 9x_4 + 6x_5 &= -474 \\
+        9x_1 + 8x_2 + 12x_3 + 8x_4 - 12x_5 &= -760 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: RUBAIYAT HAQUE} \par 
+    \large \textbf{ID: 22101358} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 10y - 11z + 6w &= 138 \\
+        17x - 7y + 10z + 14w &= -134 \\
+        -12x + 12y - 14z - 13w &= 201 \\
+        7x - 8y - 13z - 6w &= 115 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 3x_2 - 17x_3 + 7x_4 + 16x_5 &= 1384 \\
+        10x_1 + 5x_2 - 12x_3 + 12x_4 + 6x_5 &= 881 \\
+        5x_1 - 14x_2 + 17x_3 + 13x_4 + 7x_5 &= -1077 \\
+        9x_1 + 12x_2 + 5x_3 + 13x_4 - 5x_5 &= -379 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SAIF ALAM SHAAN} \par 
+    \large \textbf{ID: 22101368} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 9y - 10z + 10w &= 102 \\
+        13x - 12y + 8z + 16w &= -177 \\
+        -16x + 9y - 9z - 13w &= 143 \\
+        13x - 6y - 11z - 8w &= 131 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        11x_1 + 8x_2 - 9x_3 + 8x_4 + 12x_5 &= 880 \\
+        14x_1 + 10x_2 - 14x_3 + 9x_4 + 13x_5 &= 1240 \\
+        4x_1 - 11x_2 + 14x_3 + 12x_4 + 12x_5 &= -754 \\
+        15x_1 + 15x_2 + 12x_3 + 12x_4 - 4x_5 &= -762 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. TAHMID FAIRUZZAMAN EFAT} \par 
+    \large \textbf{ID: 22101400} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 8y - 1z + 8w &= 56 \\
+        24x + 32y - 4z + 32w &= 225 \\
+        -7x + 12y - 7z - 5w &= -48 \\
+        8x - 11y - 5z - 3w &= 20 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 10x_2 - 7x_3 + 8x_4 + 2x_5 &= 80 \\
+        32x_1 + 40x_2 - 28x_3 + 32x_4 + 8x_5 &= 320 \\
+        8x_1 - 7x_2 + 2x_3 + 8x_4 + 12x_5 &= 120 \\
+        -120x_1 - 150x_2 + 105x_3 - 120x_4 - 30x_5 &= -1200 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ANIK MITRA} \par 
+    \large \textbf{ID: 22101426} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 4y - 9z + 6w &= 66 \\
+        14x - 5y + 4z + 14w &= -6 \\
+        -3x + 12y - 9z - 3w &= 72 \\
+        2x - 11y - 9z - 9w &= 58 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 6x_2 - 9x_3 + 12x_4 + 8x_5 &= 448 \\
+        6x_1 + 12x_2 - 7x_3 + 12x_4 + 8x_5 &= 378 \\
+        4x_1 - 3x_2 + 12x_3 + 10x_4 + 8x_5 &= -342 \\
+        14x_1 + 10x_2 + 10x_3 + 2x_4 - 7x_5 &= -358 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: JAWAD AL WASI} \par 
+    \large \textbf{ID: 22101470} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 11y - 4z + 16w &= 173 \\
+        -73x + 121y - 30z - 41w &= 392 \\
+        -15x + 11y - 2z - 15w &= -43 \\
+        10x - 7y - 1z - 17w &= -77 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        16x_1 + 5x_2 - 1x_3 + 5x_4 + 4x_5 &= 263 \\
+        141x_1 - 92x_2 + 3x_3 + 97x_4 + 65x_5 &= 2529 \\
+        11x_1 - 16x_2 + 1x_3 + 11x_4 + 7x_5 &= 211 \\
+        -471x_1 + 261x_2 - 6x_3 - 306x_4 - 207x_5 &= -8376 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SUNJIDA ISLAM SUSMITA} \par 
+    \large \textbf{ID: 22101482} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 16y - 3z + 10w &= 178 \\
+        8x - 13y + 16z + 10w &= -84 \\
+        -15x + 10y - 11z - 11w &= 20 \\
+        10x - 13y - 5z - 13w &= -80 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 12x_2 - 9x_3 + 10x_4 + 8x_5 &= 510 \\
+        14x_1 + 8x_2 - 11x_3 + 10x_4 + 8x_5 &= 486 \\
+        6x_1 - 17x_2 + 10x_3 + 8x_4 + 4x_5 &= 14 \\
+        10x_1 + 12x_2 + 10x_3 + 16x_4 - 9x_5 &= -186 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SHAFAYATUR RAHMAN} \par 
+    \large \textbf{ID: 22101519} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 6y - 15z + 9w &= 155 \\
+        -33x + 176y + 5z + 136w &= -578 \\
+        -2x + 11y - 19z - 8w &= 204 \\
+        9x - 15y - 11z - 11w &= 173 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 9x_2 - 10x_3 + 14x_4 + 12x_5 &= 925 \\
+        -53x_1 - 2x_2 - 165x_3 + 39x_4 + 182x_5 &= 14709 \\
+        11x_1 - 11x_2 + 11x_3 + 5x_4 + 14x_5 &= -716 \\
+        11x_1 + 4x_2 + 14x_3 + 4x_4 - 12x_5 &= -1200 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NAFIS AHMED UTSHO } \par 
+    \large \textbf{ID: 22101539} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 4y - 13z + 7w &= 161 \\
+        -69x + 134y + 31z + 56w &= -446 \\
+        -10x + 5y - 19z - 8w &= 168 \\
+        11x - 11y - 17z - 5w &= 195 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        5x_1 + 9x_2 - 14x_3 + 6x_4 + 14x_5 &= 1447 \\
+        -65x_1 - 60x_2 - 97x_3 - 69x_4 + 202x_5 &= 11603 \\
+        9x_1 - 5x_2 + 15x_3 + 3x_4 + 14x_5 &= -908 \\
+        13x_1 + 10x_2 + 8x_3 + 12x_4 - 10x_5 &= -788 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. MOSTOFA ALL ZUBAYER} \par 
+    \large \textbf{ID: 22101612} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 7y - 10z + 6w &= 123 \\
+        8x - 16y + 2z + 4w &= 44 \\
+        -5x + 7y - 4z - 3w &= -27 \\
+        2x - 7y - 11z - 5w &= 7 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 7x_2 - 3x_3 + 7x_4 + 2x_5 &= 141 \\
+        8x_1 + 11x_2 - 7x_3 + 7x_4 + 7x_5 &= 207 \\
+        7x_1 - 6x_2 + 7x_3 + 9x_4 + 15x_5 &= 231 \\
+        4x_1 + 1x_2 + 15x_3 + 5x_4 - 16x_5 &= -203 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD SHAHADAT HOSSAIN SAGOR} \par 
+    \large \textbf{ID: 22101782} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 17y - 8z + 16w &= 288 \\
+        11x - 10y + 14z + 2w &= -21 \\
+        -12x + 9y - 3z - 9w &= -51 \\
+        11x - 8y - 3z - 12w &= -41 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        15x_1 + 12x_2 - 11x_3 + 16x_4 + 2x_5 &= 466 \\
+        12x_1 + 10x_2 - 6x_3 + 9x_4 + 15x_5 &= 1190 \\
+        12x_1 - 9x_2 + 4x_3 + 14x_4 + 8x_5 &= 582 \\
+        9x_1 + 17x_2 + 16x_3 + 14x_4 - 14x_5 &= -668 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SHAJID AHMED} \par 
+    \large \textbf{ID: 22101814} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 7y - 10z + 10w &= 183 \\
+        6x - 10y + 2z + 10w &= 70 \\
+        -9x + 15y - 6z - 11w &= -77 \\
+        10x - 15y - 9z - 5w &= 81 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 9x_2 - 7x_3 + 15x_4 + 6x_5 &= 349 \\
+        8x_1 + 11x_2 - 11x_3 + 15x_4 + 1x_5 &= 335 \\
+        17x_1 - 8x_2 + 5x_3 + 1x_4 + 13x_5 &= 277 \\
+        10x_1 + 9x_2 + 15x_3 + 7x_4 - 12x_5 &= -305 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MASHRUR SHAHRIAR HOSSAIN} \par 
+    \large \textbf{ID: 22101823} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 8y - 9z + 9w &= 184 \\
+        4x - 17y + 11z + 3w &= -20 \\
+        -5x + 11y - 4z - 8w &= -46 \\
+        4x - 14y - 9z - 10w &= -19 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 8x_2 - 6x_3 + 9x_4 + 8x_5 &= 397 \\
+        8x_1 + 15x_2 - 11x_3 + 16x_4 + 10x_5 &= 521 \\
+        8x_1 - 8x_2 + 6x_3 + 6x_4 + 17x_5 &= 440 \\
+        6x_1 + 8x_2 + 9x_3 + 11x_4 - 18x_5 &= -388 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: FAIYAZ AHMED} \par 
+    \large \textbf{ID: 22101848} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        14x + 6y - 17z + 12w &= 272 \\
+        16x - 17y + 12z + 12w &= -36 \\
+        -13x + 10y - 9z - 13w &= 8 \\
+        6x - 15y - 15z - 9w &= 108 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 8x_2 - 15x_3 + 16x_4 + 10x_5 &= 1464 \\
+        6x_1 + 10x_2 - 15x_3 + 10x_4 + 4x_5 &= 1214 \\
+        16x_1 - 7x_2 + 10x_3 + 4x_4 + 12x_5 &= -44 \\
+        8x_1 + 4x_2 + 8x_3 + 4x_4 - 11x_5 &= -864 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD.SHAHRIAR EMON} \par 
+    \large \textbf{ID: 22101913} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 6y - 5z + 7w &= 153 \\
+        9x - 11y + 9z + 5w &= 73 \\
+        -10x + 17y - 13z - 4w &= -58 \\
+        5x - 11y - 7z - 11w &= -11 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        3x_1 + 13x_2 - 8x_3 + 10x_4 + 10x_5 &= 355 \\
+        10x_1 + 14x_2 - 4x_3 + 12x_4 + 2x_5 &= 258 \\
+        11x_1 - 5x_2 + 7x_3 + 9x_4 + 10x_5 &= 276 \\
+        3x_1 + 10x_2 + 14x_3 + 8x_4 - 14x_5 &= -290 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ISHMAM JAHAN OYSHI} \par 
+    \large \textbf{ID: 22101937} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        16x + 6y - 13z + 5w &= 263 \\
+        13x - 13y + 11z + 15w &= 31 \\
+        -10x + 15y - 11z - 6w &= 20 \\
+        5x - 13y - 15z - 13w &= 85 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 17x_2 - 14x_3 + 10x_4 + 8x_5 &= 1135 \\
+        4x_1 + 18x_2 - 16x_3 + 10x_4 + 8x_5 &= 1186 \\
+        11x_1 - 7x_2 + 15x_3 + 3x_4 + 14x_5 &= -136 \\
+        15x_1 + 12x_2 + 10x_3 + 6x_4 - 14x_5 &= -796 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. IMDADUL ISLAM} \par 
+    \large \textbf{ID: 22301119} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 8y - 15z + 1w &= 139 \\
+        -11x + 62y + 125z + 78w &= -1698 \\
+        -6x + 9y - 13z - 4w &= 152 \\
+        1x - 5y - 17z - 9w &= 221 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 9x_2 - 14x_3 + 6x_4 + 10x_5 &= 1133 \\
+        -69x_1 - 32x_2 - 59x_3 - 77x_4 + 30x_5 &= 5285 \\
+        3x_1 - 5x_2 + 9x_3 + 7x_4 + 2x_5 &= -780 \\
+        9x_1 + 4x_2 + 6x_3 + 10x_4 - 2x_5 &= -548 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. AZMAIN ADIB} \par 
+    \large \textbf{ID: 22301151} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 10y - 11z + 7w &= 71 \\
+        9x - 3y + 5z + 3w &= -11 \\
+        -8x + 9y - 7z - 10w &= 44 \\
+        9x - 5y - 5z - 11w &= -11 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 1x_2 - 8x_3 + 4x_4 + 2x_5 &= 43 \\
+        31x_1 - 48x_2 + 27x_3 + 53x_4 + 26x_5 &= -49 \\
+        5x_1 - 7x_2 + 9x_3 + 11x_4 + 4x_5 &= -10 \\
+        3x_1 + 14x_2 + 10x_3 + 6x_4 - 4x_5 &= 42 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: AMIN MOHAMMAD ROHAN} \par 
+    \large \textbf{ID: 22301338} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 12y - 13z + 8w &= 124 \\
+        15x - 7y + 4z + 10w &= -58 \\
+        -4x + 8y - 14z - 13w &= 189 \\
+        5x - 12y - 17z - 12w &= 175 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 3x_2 - 13x_3 + 5x_4 + 14x_5 &= 1020 \\
+        12x_1 + 5x_2 - 18x_3 + 8x_4 + 12x_5 &= 1319 \\
+        7x_1 - 10x_2 + 13x_3 + 5x_4 + 7x_5 &= -775 \\
+        17x_1 + 6x_2 + 11x_3 + 5x_4 - 7x_5 &= -727 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: M A WALID} \par 
+    \large \textbf{ID: 22301447} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 10y - 17z + 9w &= 180 \\
+        14x - 13y + 9z + 7w &= -80 \\
+        -9x + 7y - 16z - 6w &= 122 \\
+        6x - 6y - 13z - 10w &= 121 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 12x_2 - 16x_3 + 11x_4 + 14x_5 &= 1119 \\
+        8x_1 + 13x_2 - 13x_3 + 12x_4 + 10x_5 &= 893 \\
+        10x_1 - 14x_2 + 12x_3 + 12x_4 + 9x_5 &= -450 \\
+        16x_1 + 10x_2 + 7x_3 + 5x_4 - 8x_5 &= -398 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD.SADMAN SHAKIB AUNGON} \par 
+    \large \textbf{ID: 22301566} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 7y - 10z + 14w &= 148 \\
+        9x - 14y + 12z + 6w &= -117 \\
+        -8x + 13y - 13z - 9w &= 125 \\
+        13x - 8y - 7z - 10w &= 69 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        11x_1 + 6x_2 - 11x_3 + 8x_4 + 10x_5 &= 840 \\
+        8x_1 + 6x_2 - 10x_3 + 13x_4 + 15x_5 &= 956 \\
+        12x_1 - 15x_2 + 8x_3 + 8x_4 + 6x_5 &= -104 \\
+        11x_1 + 7x_2 + 10x_3 + 14x_4 - 8x_5 &= -546 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: TASFIA ZAMAN} \par 
+    \large \textbf{ID: 22301779} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        14x + 14y - 19z + 7w &= 353 \\
+        -81x + 278y - 153z + 60w &= 2636 \\
+        -14x + 9y - 17z - 10w &= 138 \\
+        9x - 13y - 11z - 9w &= 89 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        15x_1 + 9x_2 - 10x_3 + 14x_4 + 14x_5 &= 1749 \\
+        51x_1 - 122x_2 - 97x_3 + 99x_4 + 312x_5 &= 24685 \\
+        9x_1 - 11x_2 + 9x_3 + 13x_4 + 10x_5 &= -200 \\
+        13x_1 + 12x_2 + 10x_3 + 10x_4 - 16x_5 &= -1538 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: PARISA RAHMAN} \par 
+    \large \textbf{ID: 23101400} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 8y - 1z + 8w &= 56 \\
+        24x + 32y - 4z + 32w &= 225 \\
+        -7x + 12y - 7z - 5w &= -48 \\
+        8x - 11y - 5z - 3w &= 20 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 10x_2 - 7x_3 + 8x_4 + 2x_5 &= 80 \\
+        32x_1 + 40x_2 - 28x_3 + 32x_4 + 8x_5 &= 320 \\
+        8x_1 - 7x_2 + 2x_3 + 8x_4 + 12x_5 &= 120 \\
+        -120x_1 - 150x_2 + 105x_3 - 120x_4 - 30x_5 &= -1200 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: AMIRAH HUSSAIN} \par 
+    \large \textbf{ID: 23101482} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 16y - 3z + 10w &= 178 \\
+        8x - 13y + 16z + 10w &= -84 \\
+        -15x + 10y - 11z - 11w &= 20 \\
+        10x - 13y - 5z - 13w &= -80 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 12x_2 - 9x_3 + 10x_4 + 8x_5 &= 510 \\
+        14x_1 + 8x_2 - 11x_3 + 10x_4 + 8x_5 &= 486 \\
+        6x_1 - 17x_2 + 10x_3 + 8x_4 + 4x_5 &= 14 \\
+        10x_1 + 12x_2 + 10x_3 + 16x_4 - 9x_5 &= -186 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. SHAMSUL ASHRAFIN} \par 
+    \large \textbf{ID: 21101229} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 4y + -19z + 7w &= 138 \\
+        -46x + 98y + 37z + 30w &= -439 \\
+        -9x + 9y + -12z + -10w &= 178 \\
+        4x + -8y + -11z + -4w &= 119 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 4x_2 + -10x_3 + 9x_4 + 14x_5 &= 869 \\
+        -134x_1 + -22x_2 + -37x_3 + -11x_4 + 92x_5 &= 3180 \\
+        4x_1 + -6x_2 + 14x_3 + 8x_4 + 5x_5 &= -1160 \\
+        18x_1 + 2x_2 + 5x_3 + 5x_4 + -6x_5 &= -418 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: EUSRA IBNAT} \par 
+    \large \textbf{ID: 21201147} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 9y + -12z + 13w &= 52 \\
+        11x + -6y + 11z + 15w &= -180 \\
+        -12x + 8y + -14z + -8w &= 166 \\
+        5x + -11y + -15z + -11w &= 132 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 2x_2 + -14x_3 + 5x_4 + 10x_5 &= 728 \\
+        10x_1 + 1x_2 + -8x_3 + 3x_4 + 13x_5 &= 463 \\
+        4x_1 + -12x_2 + 8x_3 + 6x_4 + 5x_5 &= -443 \\
+        7x_1 + 5x_2 + 1x_3 + 7x_4 + -3x_5 &= -72 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: LUBABA TASIN} \par 
+    \large \textbf{ID: 21201230} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 11y + -8z + 6w &= 57 \\
+        -21x + 43y + -28z + -27w &= 34 \\
+        -11x + 7y + -4z + -13w &= -27 \\
+        12x + -5y + -7z + -13w &= -17 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 5x_2 + -5x_3 + 7x_4 + 4x_5 &= 79 \\
+        45x_1 + -20x_2 + 11x_3 + 47x_4 + 41x_5 &= 497 \\
+        11x_1 + -10x_2 + 7x_3 + 11x_4 + 11x_5 &= 113 \\
+        -51x_1 + 15x_2 + -6x_3 + -54x_4 + -45x_5 &= -576 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: TALAL BIN SAJJAD RAHI} \par 
+    \large \textbf{ID: 21201289} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 8y + -13z + 11w &= 124 \\
+        -174x + 158y + 49z + 86w &= -127 \\
+        -13x + 11y + -12z + -10w &= 240 \\
+        10x + -6y + -19z + -16w &= 255 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 4x_2 + -12x_3 + 5x_4 + 10x_5 &= 1191 \\
+        -34x_1 + -226x_2 + 41x_3 + 25x_4 + 150x_5 &= -2706 \\
+        8x_1 + -18x_2 + 16x_3 + 12x_4 + 5x_5 &= -1410 \\
+        14x_1 + 10x_2 + 7x_3 + 9x_4 + -10x_5 &= -688 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NABIL HOSSAIN} \par 
+    \large \textbf{ID: 21201298} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 9y + -12z + 10w &= 137 \\
+        10x + -8y + 16z + 8w &= -228 \\
+        -19x + 7y + -10z + -17w &= 207 \\
+        14x + -5y + -9z + -11w &= 121 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        16x_1 + 3x_2 + -11x_3 + 9x_4 + 12x_5 &= 965 \\
+        10x_1 + 11x_2 + -15x_3 + 7x_4 + 15x_5 &= 1347 \\
+        9x_1 + -18x_2 + 17x_3 + 17x_4 + 9x_5 &= -1145 \\
+        10x_1 + 9x_2 + 11x_3 + 13x_4 + -6x_5 &= -791 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ANIRUDDHA AYAN} \par 
+    \large \textbf{ID: 21201453} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 7y + -6z + 13w &= 82 \\
+        8x + -6y + 11z + 3w &= -28 \\
+        -11x + 10y + -13z + -14w &= 31 \\
+        14x + -8y + -9z + -14w &= 29 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 13x_2 + -6x_3 + 4x_4 + 4x_5 &= 289 \\
+        6x_1 + 4x_2 + -7x_3 + 5x_4 + 5x_5 &= 238 \\
+        7x_1 + -13x_2 + 5x_3 + 5x_4 + 10x_5 &= 170 \\
+        12x_1 + 7x_2 + 12x_3 + 14x_4 + -5x_5 &= -119 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: GAZI MD. MUHTASIM RASHID} \par 
+    \large \textbf{ID: 21201599} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 18y + -17z + 11w &= 311 \\
+        -239x + 234y + -121z + 46w &= 1816 \\
+        -14x + 7y + -19z + -18w &= 236 \\
+        17x + -9y + -15z + -17w &= 207 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 9x_2 + -16x_3 + 12x_4 + 10x_5 &= 1883 \\
+        81x_1 + -270x_2 + -17x_3 + 69x_4 + 302x_5 &= 14257 \\
+        13x_1 + -17x_2 + 17x_3 + 17x_4 + 14x_5 &= -820 \\
+        9x_1 + 18x_2 + 10x_3 + 16x_4 + -14x_5 &= -1358 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MUHAIMIN ISLAM} \par 
+    \large \textbf{ID: 21201607} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 8y + -11z + 7w &= 106 \\
+        12x + -11y + 9z + 7w &= 2 \\
+        -1x + 15y + -14z + -8w &= 100 \\
+        6x + -14y + -13z + -8w &= 135 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 12x_2 + -16x_3 + 11x_4 + 16x_5 &= 911 \\
+        4x_1 + 11x_2 + -15x_3 + 10x_4 + 0x_5 &= 753 \\
+        8x_1 + -4x_2 + 10x_3 + 0x_4 + 15x_5 &= -344 \\
+        8x_1 + 8x_2 + 13x_3 + 1x_4 + -12x_5 &= -654 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NYEEMUR RAHAMAN DIPU} \par 
+    \large \textbf{ID: 21201666} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 14y + -15z + 6w &= 210 \\
+        10x + -13y + 8z + 10w &= -66 \\
+        -7x + 6y + -7z + -15w &= 36 \\
+        10x + -13y + -13z + -13w &= 60 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 6x_2 + -15x_3 + 10x_4 + 8x_5 &= 968 \\
+        14x_1 + 10x_2 + -15x_3 + 6x_4 + 14x_5 &= 1286 \\
+        14x_1 + -9x_2 + 6x_3 + 10x_4 + 14x_5 &= 416 \\
+        14x_1 + 12x_2 + 12x_3 + 10x_4 + -13x_5 &= -808 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: LAMISHA RAHMAN} \par 
+    \large \textbf{ID: 21201765} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        14x + 13y + -10z + 13w &= 252 \\
+        -25x + 184y + -99z + 88w &= 1600 \\
+        -8x + 8y + -14z + -8w &= 46 \\
+        15x + -9y + -11z + -9w &= 88 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        13x_1 + 10x_2 + -6x_3 + 15x_4 + 12x_5 &= 932 \\
+        6x_1 + 13x_2 + -8x_3 + 13x_4 + 15x_5 &= 1087 \\
+        8x_1 + -16x_2 + 8x_3 + 8x_4 + 11x_5 &= 323 \\
+        7x_1 + 13x_2 + 11x_3 + 11x_4 + -15x_5 &= -854 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: CHINMOY KABIRAJ} \par 
+    \large \textbf{ID: 21241037} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        0x + 3y + -8z + 7w &= 16 \\
+        14x + -2y + 7z + 9w &= -118 \\
+        -9x + 8y + -15z + -12w &= 213 \\
+        12x + -8y + -11z + -6w &= 95 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 7x_2 + -8x_3 + 2x_4 + 16x_5 &= 405 \\
+        10x_1 + 2x_2 + -11x_3 + 3x_4 + 7x_5 &= 534 \\
+        3x_1 + -11x_2 + 13x_3 + 5x_4 + 2x_5 &= -702 \\
+        8x_1 + 7x_2 + 2x_3 + 12x_4 + -9x_5 &= -153 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NABANITA SARKER} \par 
+    \large \textbf{ID: 21301037} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        0x + 3y + -8z + 7w &= 16 \\
+        14x + -2y + 7z + 9w &= -118 \\
+        -9x + 8y + -15z + -12w &= 213 \\
+        12x + -8y + -11z + -6w &= 95 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 7x_2 + -8x_3 + 2x_4 + 16x_5 &= 405 \\
+        10x_1 + 2x_2 + -11x_3 + 3x_4 + 7x_5 &= 534 \\
+        3x_1 + -11x_2 + 13x_3 + 5x_4 + 2x_5 &= -702 \\
+        8x_1 + 7x_2 + 2x_3 + 12x_4 + -9x_5 &= -153 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MOHAMMOD TASNEEM HASAN} \par 
+    \large \textbf{ID: 21301441} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 12y + -7z + 9w &= 106 \\
+        6x + -5y + 5z + 3w &= 8 \\
+        -11x + 11y + -4z + -8w &= -20 \\
+        4x + -12y + -5z + -8w &= -51 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 6x_2 + -8x_3 + 9x_4 + 10x_5 &= 289 \\
+        66x_1 + -30x_2 + -17x_3 + 63x_4 + 102x_5 &= 2456 \\
+        12x_1 + -12x_2 + 6x_3 + 8x_4 + 13x_5 &= 290 \\
+        6x_1 + 6x_2 + 9x_3 + 5x_4 + -10x_5 &= -140 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MST NOUSHIN FARIHA RONOK} \par 
+    \large \textbf{ID: 21301609} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 4y + -11z + 7w &= 126 \\
+        48x + 132y + 105z + 60w &= -837 \\
+        -7x + 7y + -18z + -4w &= 132 \\
+        0x + -12y + -19z + -2w &= 177 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        0x_1 + 14x_2 + -12x_3 + 15x_4 + 14x_5 &= 1011 \\
+        -162x_1 + 30x_2 + -153x_3 + 81x_4 + 156x_5 &= 11952 \\
+        14x_1 + -8x_2 + 12x_3 + 8x_4 + 7x_5 &= -856 \\
+        18x_1 + 6x_2 + 9x_3 + 1x_4 + -8x_5 &= -654 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ABDUR RAHMAN ARAFAT} \par 
+    \large \textbf{ID: 22101061} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        2x + 12y + -5z + 9w &= 68 \\
+        4x + -9y + 7z + 1w &= -62 \\
+        -13x + 3y + -8z + -14w &= 40 \\
+        8x + -8y + -7z + -10w &= -31 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        6x_1 + 6x_2 + -6x_3 + 3x_4 + 10x_5 &= 45 \\
+        6x_1 + -72x_2 + 43x_3 + 39x_4 + 14x_5 &= -508 \\
+        2x_1 + -10x_2 + 8x_3 + 8x_4 + 1x_5 &= -74 \\
+        6x_1 + 12x_2 + 5x_3 + 9x_4 + -8x_5 &= 64 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: TASNIM ZAMAN} \par 
+    \large \textbf{ID: 22101064} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        0x + 6y + -5z + 14w &= 0 \\
+        8x + -3y + 14z + 8w &= -106 \\
+        -7x + 6y + -9z + -13w &= 124 \\
+        14x + -5y + -11z + -11w &= 58 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        12x_1 + 4x_2 + -5x_3 + 4x_4 + 12x_5 &= 100 \\
+        10x_1 + 4x_2 + -11x_3 + 6x_4 + 14x_5 &= 186 \\
+        6x_1 + -11x_2 + 6x_3 + 10x_4 + 4x_5 &= -196 \\
+        6x_1 + 14x_2 + 4x_3 + 14x_4 + -7x_5 &= -30 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SHANJIDA ISLAM SARKER} \par 
+    \large \textbf{ID: 22101097} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 17y + -12z + 11w &= 160 \\
+        10x + -2y + 15z + 11w &= -200 \\
+        -13x + 0y + -15z + -12w &= 189 \\
+        18x + -6y + -9z + -18w &= 135 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 7x_2 + -10x_3 + 8x_4 + 12x_5 &= 507 \\
+        14x_1 + 2x_2 + -13x_3 + 5x_4 + 9x_5 &= 634 \\
+        7x_1 + -13x_2 + 15x_3 + 9x_4 + 2x_5 &= -908 \\
+        14x_1 + 15x_2 + 4x_3 + 16x_4 + -3x_5 &= -159 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: JONAYED KADER NABIL} \par 
+    \large \textbf{ID: 22101100} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 7y + -6z + 2w &= 6 \\
+        4x + 7y + -6z + 2w &= 7 \\
+        -10x + 3y + -5z + -7w &= -17 \\
+        7x + -6y + -7z + -4w &= 3 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 10x_2 + -5x_3 + 2x_4 + 8x_5 &= 24 \\
+        7x_1 + 10x_2 + -5x_3 + 2x_4 + 8x_5 &= 24 \\
+        2x_1 + -5x_2 + 8x_3 + 2x_4 + 8x_5 &= 14 \\
+        0x_1 + 0x_2 + 0x_3 + 0x_4 + 0x_5 &= 0 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NAJIAT ISLAM} \par 
+    \large \textbf{ID: 22101270} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 7y + -4z + 12w &= 93 \\
+        -99x + 49y + -36z + -67w &= 12 \\
+        -17x + 5y + -4z + -13w &= -25 \\
+        16x + -7y + -9z + -11w &= -39 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        12x_1 + 5x_2 + -3x_3 + 11x_4 + 8x_5 &= 221 \\
+        73x_1 + -46x_2 + 29x_3 + 71x_4 + 93x_5 &= 1527 \\
+        7x_1 + -8x_2 + 5x_3 + 7x_4 + 11x_5 &= 155 \\
+        -85x_1 + 41x_2 + -26x_3 + -82x_4 + -101x_5 &= -1748 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD SHAHRIAR HOSSAIN} \par 
+    \large \textbf{ID: 22101313} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 4y + -5z + 5w &= 37 \\
+        3x + -7y + 3z + 11w &= -7 \\
+        -6x + 9y + -9z + -8w &= 18 \\
+        3x + -11y + -11z + -3w &= 31 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        1x_1 + 3x_2 + -4x_3 + 8x_4 + 12x_5 &= 115 \\
+        4x_1 + 10x_2 + -4x_3 + 4x_4 + 8x_5 &= 110 \\
+        9x_1 + -11x_2 + 9x_3 + 7x_4 + 12x_5 &= 16 \\
+        5x_1 + 10x_2 + 12x_3 + 2x_4 + -4x_5 &= -102 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ASIR ABRAR TONISH} \par 
+    \large \textbf{ID: 22101324} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 11y + -14z + 4w &= 98 \\
+        7x + -10y + 10z + 12w &= -51 \\
+        -8x + 7y + -11z + -11w &= 45 \\
+        11x + -8y + -7z + -12w &= 57 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 4x_2 + -9x_3 + 6x_4 + 12x_5 &= 282 \\
+        2x_1 + 6x_2 + -8x_3 + 7x_4 + 3x_5 &= 168 \\
+        6x_1 + -5x_2 + 12x_3 + 10x_4 + 8x_5 &= -116 \\
+        11x_1 + 7x_2 + 12x_3 + 6x_4 + -6x_5 &= -194 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: WASIF KHAN} \par 
+    \large \textbf{ID: 22101357} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 12y + -11z + 11w &= 105 \\
+        9x + -9y + 11z + 15w &= -155 \\
+        -14x + 11y + -17z + -10w &= 172 \\
+        5x + -9y + -15z + -9w &= 111 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        5x_1 + 7x_2 + -14x_3 + 10x_4 + 12x_5 &= 917 \\
+        6x_1 + 4x_2 + -10x_3 + 6x_4 + 8x_5 &= 654 \\
+        7x_1 + -7x_2 + 11x_3 + 9x_4 + 6x_5 &= -474 \\
+        9x_1 + 8x_2 + 12x_3 + 8x_4 + -12x_5 &= -760 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: RUBAIYAT HAQUE} \par 
+    \large \textbf{ID: 22101358} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 10y + -11z + 6w &= 138 \\
+        17x + -7y + 10z + 14w &= -134 \\
+        -12x + 12y + -14z + -13w &= 201 \\
+        7x + -8y + -13z + -6w &= 115 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 3x_2 + -17x_3 + 7x_4 + 16x_5 &= 1384 \\
+        10x_1 + 5x_2 + -12x_3 + 12x_4 + 6x_5 &= 881 \\
+        5x_1 + -14x_2 + 17x_3 + 13x_4 + 7x_5 &= -1077 \\
+        9x_1 + 12x_2 + 5x_3 + 13x_4 + -5x_5 &= -379 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SAIF ALAM SHAAN} \par 
+    \large \textbf{ID: 22101368} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 9y + -10z + 10w &= 102 \\
+        13x + -12y + 8z + 16w &= -177 \\
+        -16x + 9y + -9z + -13w &= 143 \\
+        13x + -6y + -11z + -8w &= 131 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        11x_1 + 8x_2 + -9x_3 + 8x_4 + 12x_5 &= 880 \\
+        14x_1 + 10x_2 + -14x_3 + 9x_4 + 13x_5 &= 1240 \\
+        4x_1 + -11x_2 + 14x_3 + 12x_4 + 12x_5 &= -754 \\
+        15x_1 + 15x_2 + 12x_3 + 12x_4 + -4x_5 &= -762 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. TAHMID FAIRUZZAMAN EFAT} \par 
+    \large \textbf{ID: 22101400} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 8y + -1z + 8w &= 56 \\
+        24x + 32y + -4z + 32w &= 225 \\
+        -7x + 12y + -7z + -5w &= -48 \\
+        8x + -11y + -5z + -3w &= 20 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 10x_2 + -7x_3 + 8x_4 + 2x_5 &= 80 \\
+        32x_1 + 40x_2 + -28x_3 + 32x_4 + 8x_5 &= 320 \\
+        8x_1 + -7x_2 + 2x_3 + 8x_4 + 12x_5 &= 120 \\
+        -120x_1 + -150x_2 + 105x_3 + -120x_4 + -30x_5 &= -1200 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ANIK MITRA} \par 
+    \large \textbf{ID: 22101426} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 4y + -9z + 6w &= 66 \\
+        14x + -5y + 4z + 14w &= -6 \\
+        -3x + 12y + -9z + -3w &= 72 \\
+        2x + -11y + -9z + -9w &= 58 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 6x_2 + -9x_3 + 12x_4 + 8x_5 &= 448 \\
+        6x_1 + 12x_2 + -7x_3 + 12x_4 + 8x_5 &= 378 \\
+        4x_1 + -3x_2 + 12x_3 + 10x_4 + 8x_5 &= -342 \\
+        14x_1 + 10x_2 + 10x_3 + 2x_4 + -7x_5 &= -358 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: JAWAD AL WASI} \par 
+    \large \textbf{ID: 22101470} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 11y + -4z + 16w &= 173 \\
+        -73x + 121y + -30z + -41w &= 392 \\
+        -15x + 11y + -2z + -15w &= -43 \\
+        10x + -7y + -1z + -17w &= -77 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        16x_1 + 5x_2 + -1x_3 + 5x_4 + 4x_5 &= 263 \\
+        141x_1 + -92x_2 + 3x_3 + 97x_4 + 65x_5 &= 2529 \\
+        11x_1 + -16x_2 + 1x_3 + 11x_4 + 7x_5 &= 211 \\
+        -471x_1 + 261x_2 + -6x_3 + -306x_4 + -207x_5 &= -8376 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SUNJIDA ISLAM SUSMITA} \par 
+    \large \textbf{ID: 22101482} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 16y + -3z + 10w &= 178 \\
+        8x + -13y + 16z + 10w &= -84 \\
+        -15x + 10y + -11z + -11w &= 20 \\
+        10x + -13y + -5z + -13w &= -80 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 12x_2 + -9x_3 + 10x_4 + 8x_5 &= 510 \\
+        14x_1 + 8x_2 + -11x_3 + 10x_4 + 8x_5 &= 486 \\
+        6x_1 + -17x_2 + 10x_3 + 8x_4 + 4x_5 &= 14 \\
+        10x_1 + 12x_2 + 10x_3 + 16x_4 + -9x_5 &= -186 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SHAFAYATUR RAHMAN} \par 
+    \large \textbf{ID: 22101519} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 6y + -15z + 9w &= 155 \\
+        -33x + 176y + 5z + 136w &= -578 \\
+        -2x + 11y + -19z + -8w &= 204 \\
+        9x + -15y + -11z + -11w &= 173 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        7x_1 + 9x_2 + -10x_3 + 14x_4 + 12x_5 &= 925 \\
+        -53x_1 + -2x_2 + -165x_3 + 39x_4 + 182x_5 &= 14709 \\
+        11x_1 + -11x_2 + 11x_3 + 5x_4 + 14x_5 &= -716 \\
+        11x_1 + 4x_2 + 14x_3 + 4x_4 + -12x_5 &= -1200 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: NAFIS AHMED UTSHO } \par 
+    \large \textbf{ID: 22101539} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 4y + -13z + 7w &= 161 \\
+        -69x + 134y + 31z + 56w &= -446 \\
+        -10x + 5y + -19z + -8w &= 168 \\
+        11x + -11y + -17z + -5w &= 195 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        5x_1 + 9x_2 + -14x_3 + 6x_4 + 14x_5 &= 1447 \\
+        -65x_1 + -60x_2 + -97x_3 + -69x_4 + 202x_5 &= 11603 \\
+        9x_1 + -5x_2 + 15x_3 + 3x_4 + 14x_5 &= -908 \\
+        13x_1 + 10x_2 + 8x_3 + 12x_4 + -10x_5 &= -788 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. MOSTOFA ALL ZUBAYER} \par 
+    \large \textbf{ID: 22101612} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 7y + -10z + 6w &= 123 \\
+        8x + -16y + 2z + 4w &= 44 \\
+        -5x + 7y + -4z + -3w &= -27 \\
+        2x + -7y + -11z + -5w &= 7 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 7x_2 + -3x_3 + 7x_4 + 2x_5 &= 141 \\
+        8x_1 + 11x_2 + -7x_3 + 7x_4 + 7x_5 &= 207 \\
+        7x_1 + -6x_2 + 7x_3 + 9x_4 + 15x_5 &= 231 \\
+        4x_1 + 1x_2 + 15x_3 + 5x_4 + -16x_5 &= -203 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD SHAHADAT HOSSAIN SAGOR} \par 
+    \large \textbf{ID: 22101782} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 17y + -8z + 16w &= 288 \\
+        11x + -10y + 14z + 2w &= -21 \\
+        -12x + 9y + -3z + -9w &= -51 \\
+        11x + -8y + -3z + -12w &= -41 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        15x_1 + 12x_2 + -11x_3 + 16x_4 + 2x_5 &= 466 \\
+        12x_1 + 10x_2 + -6x_3 + 9x_4 + 15x_5 &= 1190 \\
+        12x_1 + -9x_2 + 4x_3 + 14x_4 + 8x_5 &= 582 \\
+        9x_1 + 17x_2 + 16x_3 + 14x_4 + -14x_5 &= -668 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: SHAJID AHMED} \par 
+    \large \textbf{ID: 22101814} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 7y + -10z + 10w &= 183 \\
+        6x + -10y + 2z + 10w &= 70 \\
+        -9x + 15y + -6z + -11w &= -77 \\
+        10x + -15y + -9z + -5w &= 81 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 9x_2 + -7x_3 + 15x_4 + 6x_5 &= 349 \\
+        8x_1 + 11x_2 + -11x_3 + 15x_4 + 1x_5 &= 335 \\
+        17x_1 + -8x_2 + 5x_3 + 1x_4 + 13x_5 &= 277 \\
+        10x_1 + 9x_2 + 15x_3 + 7x_4 + -12x_5 &= -305 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MASHRUR SHAHRIAR HOSSAIN} \par 
+    \large \textbf{ID: 22101823} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 8y + -9z + 9w &= 184 \\
+        4x + -17y + 11z + 3w &= -20 \\
+        -5x + 11y + -4z + -8w &= -46 \\
+        4x + -14y + -9z + -10w &= -19 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        10x_1 + 8x_2 + -6x_3 + 9x_4 + 8x_5 &= 397 \\
+        8x_1 + 15x_2 + -11x_3 + 16x_4 + 10x_5 &= 521 \\
+        8x_1 + -8x_2 + 6x_3 + 6x_4 + 17x_5 &= 440 \\
+        6x_1 + 8x_2 + 9x_3 + 11x_4 + -18x_5 &= -388 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: FAIYAZ AHMED} \par 
+    \large \textbf{ID: 22101848} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        14x + 6y + -17z + 12w &= 272 \\
+        16x + -17y + 12z + 12w &= -36 \\
+        -13x + 10y + -9z + -13w &= 8 \\
+        6x + -15y + -15z + -9w &= 108 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 8x_2 + -15x_3 + 16x_4 + 10x_5 &= 1464 \\
+        6x_1 + 10x_2 + -15x_3 + 10x_4 + 4x_5 &= 1214 \\
+        16x_1 + -7x_2 + 10x_3 + 4x_4 + 12x_5 &= -44 \\
+        8x_1 + 4x_2 + 8x_3 + 4x_4 + -11x_5 &= -864 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD.SHAHRIAR EMON} \par 
+    \large \textbf{ID: 22101913} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 6y + -5z + 7w &= 153 \\
+        9x + -11y + 9z + 5w &= 73 \\
+        -10x + 17y + -13z + -4w &= -58 \\
+        5x + -11y + -7z + -11w &= -11 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        3x_1 + 13x_2 + -8x_3 + 10x_4 + 10x_5 &= 355 \\
+        10x_1 + 14x_2 + -4x_3 + 12x_4 + 2x_5 &= 258 \\
+        11x_1 + -5x_2 + 7x_3 + 9x_4 + 10x_5 &= 276 \\
+        3x_1 + 10x_2 + 14x_3 + 8x_4 + -14x_5 &= -290 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: ISHMAM JAHAN OYSHI} \par 
+    \large \textbf{ID: 22101937} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        16x + 6y + -13z + 5w &= 263 \\
+        13x + -13y + 11z + 15w &= 31 \\
+        -10x + 15y + -11z + -6w &= 20 \\
+        5x + -13y + -15z + -13w &= 85 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 17x_2 + -14x_3 + 10x_4 + 8x_5 &= 1135 \\
+        4x_1 + 18x_2 + -16x_3 + 10x_4 + 8x_5 &= 1186 \\
+        11x_1 + -7x_2 + 15x_3 + 3x_4 + 14x_5 &= -136 \\
+        15x_1 + 12x_2 + 10x_3 + 6x_4 + -14x_5 &= -796 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. IMDADUL ISLAM} \par 
+    \large \textbf{ID: 22301119} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        4x + 8y + -15z + 1w &= 139 \\
+        -11x + 62y + 125z + 78w &= -1698 \\
+        -6x + 9y + -13z + -4w &= 152 \\
+        1x + -5y + -17z + -9w &= 221 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 9x_2 + -14x_3 + 6x_4 + 10x_5 &= 1133 \\
+        -69x_1 + -32x_2 + -59x_3 + -77x_4 + 30x_5 &= 5285 \\
+        3x_1 + -5x_2 + 9x_3 + 7x_4 + 2x_5 &= -780 \\
+        9x_1 + 4x_2 + 6x_3 + 10x_4 + -2x_5 &= -548 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD. AZMAIN ADIB} \par 
+    \large \textbf{ID: 22301151} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        10x + 10y + -11z + 7w &= 71 \\
+        9x + -3y + 5z + 3w &= -11 \\
+        -8x + 9y + -7z + -10w &= 44 \\
+        9x + -5y + -5z + -11w &= -11 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 1x_2 + -8x_3 + 4x_4 + 2x_5 &= 43 \\
+        31x_1 + -48x_2 + 27x_3 + 53x_4 + 26x_5 &= -49 \\
+        5x_1 + -7x_2 + 9x_3 + 11x_4 + 4x_5 &= -10 \\
+        3x_1 + 14x_2 + 10x_3 + 6x_4 + -4x_5 &= 42 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: AMIN MOHAMMAD ROHAN} \par 
+    \large \textbf{ID: 22301338} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        8x + 12y + -13z + 8w &= 124 \\
+        15x + -7y + 4z + 10w &= -58 \\
+        -4x + 8y + -14z + -13w &= 189 \\
+        5x + -12y + -17z + -12w &= 175 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        9x_1 + 3x_2 + -13x_3 + 5x_4 + 14x_5 &= 1020 \\
+        12x_1 + 5x_2 + -18x_3 + 8x_4 + 12x_5 &= 1319 \\
+        7x_1 + -10x_2 + 13x_3 + 5x_4 + 7x_5 &= -775 \\
+        17x_1 + 6x_2 + 11x_3 + 5x_4 + -7x_5 &= -727 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: M A WALID} \par 
+    \large \textbf{ID: 22301447} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 10y + -17z + 9w &= 180 \\
+        14x + -13y + 9z + 7w &= -80 \\
+        -9x + 7y + -16z + -6w &= 122 \\
+        6x + -6y + -13z + -10w &= 121 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 12x_2 + -16x_3 + 11x_4 + 14x_5 &= 1119 \\
+        8x_1 + 13x_2 + -13x_3 + 12x_4 + 10x_5 &= 893 \\
+        10x_1 + -14x_2 + 12x_3 + 12x_4 + 9x_5 &= -450 \\
+        16x_1 + 10x_2 + 7x_3 + 5x_4 + -8x_5 &= -398 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: MD.SADMAN SHAKIB AUNGON} \par 
+    \large \textbf{ID: 22301566} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        12x + 7y + -10z + 14w &= 148 \\
+        9x + -14y + 12z + 6w &= -117 \\
+        -8x + 13y + -13z + -9w &= 125 \\
+        13x + -8y + -7z + -10w &= 69 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        11x_1 + 6x_2 + -11x_3 + 8x_4 + 10x_5 &= 840 \\
+        8x_1 + 6x_2 + -10x_3 + 13x_4 + 15x_5 &= 956 \\
+        12x_1 + -15x_2 + 8x_3 + 8x_4 + 6x_5 &= -104 \\
+        11x_1 + 7x_2 + 10x_3 + 14x_4 + -8x_5 &= -546 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: TASFIA ZAMAN} \par 
+    \large \textbf{ID: 22301779} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        14x + 14y + -19z + 7w &= 353 \\
+        -81x + 278y + -153z + 60w &= 2636 \\
+        -14x + 9y + -17z + -10w &= 138 \\
+        9x + -13y + -11z + -9w &= 89 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        15x_1 + 9x_2 + -10x_3 + 14x_4 + 14x_5 &= 1749 \\
+        51x_1 + -122x_2 + -97x_3 + 99x_4 + 312x_5 &= 24685 \\
+        9x_1 + -11x_2 + 9x_3 + 13x_4 + 10x_5 &= -200 \\
+        13x_1 + 12x_2 + 10x_3 + 10x_4 + -16x_5 &= -1538 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: PARISA RAHMAN} \par 
+    \large \textbf{ID: 23101400} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 8y + -1z + 8w &= 56 \\
+        24x + 32y + -4z + 32w &= 225 \\
+        -7x + 12y + -7z + -5w &= -48 \\
+        8x + -11y + -5z + -3w &= 20 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        8x_1 + 10x_2 + -7x_3 + 8x_4 + 2x_5 &= 80 \\
+        32x_1 + 40x_2 + -28x_3 + 32x_4 + 8x_5 &= 320 \\
+        8x_1 + -7x_2 + 2x_3 + 8x_4 + 12x_5 &= 120 \\
+        -120x_1 + -150x_2 + 105x_3 + -120x_4 + -30x_5 &= -1200 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 216: Linear Algebra and Fourier Analysis}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 04 \par 
+    \large \textbf{Name: AMIRAH HUSSAIN} \par 
+    \large \textbf{ID: 23101482} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 40 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+    Convert a system of linear equations into Reduced Row Echelon Form (RREF), check its consistency, and find a unique solution if it exists.\\
+    
+    \begin{align*}
+        6x + 16y + -3z + 10w &= 178 \\
+        8x + -13y + 16z + 10w &= -84 \\
+        -15x + 10y + -11z + -11w &= 20 \\
+        10x + -13y + -5z + -13w &= -80 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(8)}
+    \vspace{1in}
+
+
+    \question
+    The given system of linear equations possesses an infinite number of solutions. Determine all solutions in parametric form. Feel free to utilize either the Reduced Row Echelon Form (RREF) or Row Echelon Form.\\
+    
+    \begin{align*}
+        14x_1 + 12x_2 + -9x_3 + 10x_4 + 8x_5 &= 510 \\
+        14x_1 + 8x_2 + -11x_3 + 10x_4 + 8x_5 &= 486 \\
+        6x_1 + -17x_2 + 10x_3 + 8x_4 + 4x_5 &= 14 \\
+        10x_1 + 12x_2 + 10x_3 + 16x_4 + -9x_5 &= -186 \\
+    \end{align*}
+
+    
+    \hfill \textbf{(12)}
+    \vspace{0.1in}
+
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
